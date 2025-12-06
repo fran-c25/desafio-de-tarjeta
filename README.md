@@ -18,18 +18,15 @@ Los usuarios deberían poder:
 
 ### Screenshot
 
-![Mobile Screenshot](./assets/captura-de-pantalla-mobile.png)
-![Desktop Screenshot](./assets/captura-de-pantalla-desktop.png)
+![Mobile Screenshot](./assets/Captura-de-pantalla-mobile.png)
+![Desktop Screenshot](./assets/Captura-de-pantalla-desktop.png)
 
 
 ### Links
 <!-- Enlaces -->
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-<!-- - URL de la solución: [Añade la URL de tu solución aquí](https://your-solution-url.com) -->
-
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-<!-- - URL del sitio en vivo: [Añade la URL de tu sitio en vivo aquí](https://your-live-site-url.com) -->
+- Solution URL: https://github.com/fran-c25/desafio-de-tarjeta
+- Live Site URL: https://desafio-frontendmentor-card-franco.netlify.app
 
 ### Built with
 - Marcado HTML5 semántico
